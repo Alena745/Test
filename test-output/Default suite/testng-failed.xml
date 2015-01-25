@@ -7,7 +7,7 @@
         <methods>
           <include name="tearDown"/>
           <include name="init"/>
-          <include name="testUntitled"/>
+          <include name="testUntitled2"/>
         </methods>
       </class> <!-- Alena.Testt -->
     </classes>
